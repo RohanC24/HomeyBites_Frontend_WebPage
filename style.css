@@ -30,13 +30,13 @@ body{
     color: white;
 }
 .icons{
-  padding: 30px 0px 0px 43px;
+  padding: 30px 0px 0px 42px;
   color:white;
   font-size: 20px;
   display:flex;
 }
 .logout{
-    margin-left: 20px;
+    margin-left: 10px;
 }
 .panel a{
     text-decoration: none;
